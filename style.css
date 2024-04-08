@@ -1,0 +1,23 @@
+.alimentacao {
+    color: darkred;
+}
+
+.exercicio {
+    color: lightseagreen;
+}
+
+.sono {
+    color: darkgray;
+}
+
+#alimentacao {
+    color: darkred;
+}
+
+#exercicio {
+    color: lightseagreen;
+}
+
+#sono {
+    color: darkgray;
+}
